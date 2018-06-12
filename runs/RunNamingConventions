@@ -1,0 +1,8 @@
+TF_IDF_1 Refers to the TF-IDF run with the Base queries found in queries.txt
+TF_IDF_3 through TF_IDF_8 refer to the TF-IDF runs using the extended queries in the following order:
+CBOW-100
+CBOW-200
+CBOW-300
+SKIP-100
+SKIP-200
+SKIP-300
